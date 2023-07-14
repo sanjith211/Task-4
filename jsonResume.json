@@ -1,0 +1,57 @@
+{
+    "name": "Sanjith Kumar S T",
+    "title": "Senior Software Engineer",
+    "summary": "Experienced Software Engineer with a passion for creating efficient and scalable applications. Skilled in full-stack development and experienced in DotNet applications and also experiencedd in DuckCreek Insights as a Senior Software Engineer in integration and database level.",
+    "contact": {
+      "email": "sanjith211@gmail.com",
+      "phone": "+91 7010167459",
+      "address": "Sholinganallur, Chennai-600119"
+    },
+    "skills": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "React",
+      "Node.js",
+      "SQL",
+      "DotNet"
+    ],
+    "experience": [
+      {
+        "position": "Senior Software Engineer",
+        "company": "Capgemini",
+        "responsibilities": [
+          "Developed and maintained web applications using DuckCreek tool in DotNet language.",
+          "Gathering and documenting the requirements by working with the leads.",
+          "Testing the application functionality.",
+          "Integrating the application components."
+        ]
+      },
+      {
+        "position": "Software Engineer",
+        "company": "Sun Industrial Automation and Solution",
+        "responsibilities": [
+            "Developed and maintained applications using VisualStudio tool in DotNet language.",
+            "Gathering and documenting the requirements by working with the leads.",
+            "Testing the application functionality.",
+            "Integrating the application components."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.E - Computer Science Engineering",
+        "university": "K C G College of Technology",
+        "completionYear": 2019
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil"
+      },
+      {
+        "language": "English"
+      }
+    ]
+  }
+  
